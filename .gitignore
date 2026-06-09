@@ -1,0 +1,5 @@
+# Track only genesis/ and exodus/. Everything else (tokens, prompts, scripts) ignored.
+/*
+!/genesis/
+!/exodus/
+!/.gitignore
