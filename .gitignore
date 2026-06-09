@@ -1,5 +1,8 @@
-# Track only genesis/ and exodus/. Everything else (tokens, prompts, scripts) ignored.
+# Track only published content. Tokens, scripts, internal docs stay ignored.
 /*
 !/genesis/
 !/exodus/
+!/prompts/
+!/README.md
+!/LICENSE
 !/.gitignore
